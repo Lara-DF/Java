@@ -35,6 +35,10 @@ if (primeiroNumero == segundoNumero) {
 
 Se os números forem iguais, adiciona uma mensagem dizendo que são iguais.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44c664f3-69f8-4e0e-a35e-077aac21bde3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/913ef698-061c-4735-9339-b843264c69f0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d821534-60d0-4967-976c-047ed0ae83c4" />
+
 Se não forem, adiciona uma mensagem dizendo que não são iguais.
 
 Isso é repetido para outras comparações:
@@ -68,7 +72,3 @@ Converte esses números para o tipo numérico.
 Compara os dois números usando diferentes operadores lógicos.
 
 Mostra todas as comparações numa janela para o usuário ver.
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44c664f3-69f8-4e0e-a35e-077aac21bde3" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/913ef698-061c-4735-9339-b843264c69f0" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d821534-60d0-4967-976c-047ed0ae83c4" />
