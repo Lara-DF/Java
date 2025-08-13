@@ -24,6 +24,8 @@ Converte o texto digitado para um número decimal (double).
 
 O mesmo processo é repetido para o segundo número.
 
+
+
 2. Comparações
 
 Aqui você verifica várias comparações entre os dois números usando if e else.
@@ -54,6 +56,8 @@ Isso é repetido para outras comparações:
 
 Todas as mensagens vão sendo juntadas numa variável chamada mensagemFinal.
 
+
+
 3. Mostrar Resultado Final
 
 JOptionPane.showMessageDialog(null, mensagemFinal, "Resultado das Comparações", JOptionPane.INFORMATION_MESSAGE);
@@ -70,4 +74,6 @@ Compara os dois números usando diferentes operadores lógicos.
 
 Mostra todas as comparações numa janela para o usuário ver.
 
-Se quiser, posso explicar algum ponto específico com mais detalhes! Quer que eu faça?
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44c664f3-69f8-4e0e-a35e-077aac21bde3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/913ef698-061c-4735-9339-b843264c69f0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d821534-60d0-4967-976c-047ed0ae83c4" />
