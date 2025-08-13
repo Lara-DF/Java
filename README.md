@@ -16,12 +16,7 @@ if (primeiroNumeroStr == null) {
 
 Esse bloco verifica se o usuário cancelou a entrada (clicou em "Cancelar" ou fechou a janela).
 
-Se for cancelado, o programa mostra uma mensagem e termina.
-
 double primeiroNumero = Double.parseDouble(primeiroNumeroStr);
-
-Converte o texto digitado para um número decimal (double).
-
 O mesmo processo é repetido para o segundo número.
 
 
