@@ -4,6 +4,9 @@ String primeiroNumeroStr = JOptionPane.showInputDialog("Digite o primeiro númer
 
 Mostra uma janela para o usuário digitar o primeiro número.
 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/af1d75cf-7e81-49d6-8060-849e676baacc" />
+
+
 O valor digitado sempre é uma String (texto).
 
 if (primeiroNumeroStr == null) {
